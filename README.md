@@ -134,7 +134,7 @@
 <br>
 
 <li>
-<a href="discordapp.com/users/1024766986720391240" target="_blank">
+<a href="https://discordapp.com/users/1024766986720391240" target="_blank">
 <img src="https://img.shields.io/badge/discord-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
