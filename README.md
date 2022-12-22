@@ -173,7 +173,7 @@
   ![Snake animation](https://github.com/miguelsilvaviana/miguelsilvaviana/blob/output/github-contribution-grid-snake.svg)
 
 
-![Miguek GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=miguelsilvaviana&hide_border=true&theme=redical)
+![Miguel GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=miguelsilvaviana&hide_border=true&theme=redical)
 
 </div>
 <br>
