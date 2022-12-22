@@ -168,10 +168,10 @@
 <br>
 <br>
 
-<div align='center'>
-
- 
-
+<div align="center">
+  <a href="https://github.com/miguelsilvaviana">
+  <img  src="https://github.com/miguelsilvaviana/miguelsilvaviana/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 <br>
 <br>
