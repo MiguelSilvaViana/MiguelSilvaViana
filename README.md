@@ -32,18 +32,18 @@
 
 - **Languages**:
     
-    ![Javascript](https://img.shields.io/badge/JavaScript-064c54?style=for-the-badge&logo=javascript&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-064c54.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Typescript](https://img.shields.io/badge/TypeScript-064c54?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/JavaScript-01466e?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-01466e.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/TypeScript-01466e?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-064c54.svg?style=for-the-badge&logo=javascript&logoColor=white)
-   ![React](https://img.shields.io/badge/React-064c54?style=for-the-badge&logo=react&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-064c54.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-064c54.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-01466e.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![React](https://img.shields.io/badge/React-01466e?style=for-the-badge&logo=react&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-01466e.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-01466e.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
    
@@ -52,8 +52,8 @@
 
 - **Cloud Hosting**:
 
-    ![VERCEL](https://img.shields.io/badge/Vercel-064c54?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-064c54.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![VERCEL](https://img.shields.io/badge/Vercel-01466e?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-01466e.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -63,18 +63,18 @@
 
 - **Frameworks**:
 
-    ![Nextjs](https://img.shields.io/badge/next.js-064c54?style=for-the-badge&logo=nextdotjs&logoColor=white)
-    ![Expressjs](https://img.shields.io/badge/Express.js-064c54?style=for-the-badge&logo=express&logoColor=white)
-    ![React](https://img.shields.io/badge/React-064c54?style=for-the-badge&logo=react&logoColor=white)
-    ![Maridb](https://img.shields.io/badge/MariaDB-064c54?style=for-the-badge&logo=mariadb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-064c54?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/firebase-064c54?style=for-the-badge&logo=firebase&logoColor=white)
-    ![Mongodb](https://img.shields.io/badge/MongoDB-064c54?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-064c54?style=for-the-badge&logo=heroku&logoColor=white)
-    ![React Router](https://img.shields.io/badge/React_Router-064c54?style=for-the-badge&logo=react-router&logoColor=white)
-    ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-064c54?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![bootstrap](https://img.shields.io/badge/Bootstrap-064c54?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Redux](https://img.shields.io/badge/Redux-064c54?style=for-the-badge&logo=redux&logoColor=white)
+    ![Nextjs](https://img.shields.io/badge/next.js-01466e?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![Expressjs](https://img.shields.io/badge/Express.js-01466e?style=for-the-badge&logo=express&logoColor=white)
+    ![React](https://img.shields.io/badge/React-01466e?style=for-the-badge&logo=react&logoColor=white)
+    ![Maridb](https://img.shields.io/badge/MariaDB-01466e?style=for-the-badge&logo=mariadb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-01466e?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-01466e?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Mongodb](https://img.shields.io/badge/MongoDB-01466e?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku-01466e?style=for-the-badge&logo=heroku&logoColor=white)
+    ![React Router](https://img.shields.io/badge/React_Router-01466e?style=for-the-badge&logo=react-router&logoColor=white)
+    ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-01466e?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![bootstrap](https://img.shields.io/badge/Bootstrap-01466e?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Redux](https://img.shields.io/badge/Redux-01466e?style=for-the-badge&logo=redux&logoColor=white)
 
     
 
@@ -82,12 +82,12 @@
 
 - **Extras**:
 
-    ![English](https://img.shields.io/badge/english-064c54?logo=english&logoColor=fff&style=for-the-badge)
-    ![Blockchain](https://img.shields.io/badge/Blockchain.com-064c54?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)  
-    ![github](https://img.shields.io/badge/GIT-064c54?style=for-the-badge&logo=git&logoColor=white)
-    ![Gitkraken](https://img.shields.io/badge/GitKraken-064c54?style=for-the-badge&logo=GitKraken&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-064c54?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Powershell](https://img.shields.io/badge/powershell-064c54?style=for-the-badge&logo=powershell&logoColor=white) 
+    ![English](https://img.shields.io/badge/english-01466e?logo=english&logoColor=fff&style=for-the-badge)
+    ![Blockchain](https://img.shields.io/badge/Blockchain.com-01466e?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)  
+    ![github](https://img.shields.io/badge/GIT-01466e?style=for-the-badge&logo=git&logoColor=white)
+    ![Gitkraken](https://img.shields.io/badge/GitKraken-01466e?style=for-the-badge&logo=GitKraken&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-01466e?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Powershell](https://img.shields.io/badge/powershell-01466e?style=for-the-badge&logo=powershell&logoColor=white) 
 
 </p>
 
@@ -104,10 +104,10 @@
 
 <div align="center">
 <a href="https://github.com/miguelsilvaviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsilvaviana&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsilvaviana&layout=compact&langs_count=7&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsilvaviana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsilvaviana&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 	  
- [![Miguel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelsilvaviana&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+ [![Miguel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelsilvaviana&theme=react&hide_border=true)](https://git.io/streak-stats)
  
 </div>
 
@@ -127,7 +127,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/miguel-da-silva-viana-248148259/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-064c54.svg?color=064c54&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-01466e.svg?color=01466e&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -135,7 +135,7 @@
 
 <li>
 <a href="https://discordapp.com/users/1024766986720391240" target="_blank">
-<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=064c54&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=01466e&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -143,7 +143,7 @@
 
 <li>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/website-064c54?style=for-the-badge&logo=About.me&logoColor=white" t=website style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/website-01466e?style=for-the-badge&logo=About.me&logoColor=white" t=website style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -151,7 +151,7 @@
 	
 <li>
 <a href="mailto:miguelsilvavianaa@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-064c54.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-01466e.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 <br>
