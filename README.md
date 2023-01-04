@@ -32,18 +32,18 @@
 
 - **Languages**:
     
-    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/JavaScript-064c54?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-064c54.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/TypeScript-064c54?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-064c54.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![React](https://img.shields.io/badge/React-064c54?style=for-the-badge&logo=react&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-064c54.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-064c54.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
    
@@ -52,8 +52,8 @@
 
 - **Cloud Hosting**:
 
-    ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![VERCEL](https://img.shields.io/badge/Vercel-064c54?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-064c54.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -63,18 +63,18 @@
 
 - **Frameworks**:
 
-    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-    ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![Maridb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-    ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-    ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+    ![Nextjs](https://img.shields.io/badge/next.js-064c54?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![Expressjs](https://img.shields.io/badge/Express.js-064c54?style=for-the-badge&logo=express&logoColor=white)
+    ![React](https://img.shields.io/badge/React-064c54?style=for-the-badge&logo=react&logoColor=white)
+    ![Maridb](https://img.shields.io/badge/MariaDB-064c54?style=for-the-badge&logo=mariadb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-064c54?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-064c54?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Mongodb](https://img.shields.io/badge/MongoDB-064c54?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku-064c54?style=for-the-badge&logo=heroku&logoColor=white)
+    ![React Router](https://img.shields.io/badge/React_Router-064c54?style=for-the-badge&logo=react-router&logoColor=white)
+    ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-064c54?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![bootstrap](https://img.shields.io/badge/Bootstrap-064c54?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Redux](https://img.shields.io/badge/Redux-064c54?style=for-the-badge&logo=redux&logoColor=white)
 
     
 
@@ -82,12 +82,12 @@
 
 - **Extras**:
 
-    ![English](https://img.shields.io/badge/english-121D33?logo=english&logoColor=fff&style=for-the-badge)
-    ![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)  
-    ![github](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    ![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
+    ![English](https://img.shields.io/badge/english-064c54?logo=english&logoColor=fff&style=for-the-badge)
+    ![Blockchain](https://img.shields.io/badge/Blockchain.com-064c54?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)  
+    ![github](https://img.shields.io/badge/GIT-064c54?style=for-the-badge&logo=git&logoColor=white)
+    ![Gitkraken](https://img.shields.io/badge/GitKraken-064c54?style=for-the-badge&logo=GitKraken&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-064c54?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Powershell](https://img.shields.io/badge/powershell-064c54?style=for-the-badge&logo=powershell&logoColor=white) 
 
 </p>
 
@@ -127,7 +127,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/miguel-da-silva-viana-248148259/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-064c54.svg?color=064c54&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -135,7 +135,7 @@
 
 <li>
 <a href="https://discordapp.com/users/1024766986720391240" target="_blank">
-<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=064c54&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -143,7 +143,7 @@
 
 <li>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" t=website style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/website-064c54?style=for-the-badge&logo=About.me&logoColor=white" t=website style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -151,7 +151,7 @@
 	
 <li>
 <a href="mailto:miguelsilvavianaa@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-064c54.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 <br>
