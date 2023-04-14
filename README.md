@@ -71,7 +71,6 @@
     ![Mongodb](https://img.shields.io/badge/MongoDB-01466e?style=for-the-badge&logo=mongodb&logoColor=white)
     ![React Router](https://img.shields.io/badge/React_Router-01466e?style=for-the-badge&logo=react-router&logoColor=white)
     ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-01466e?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![bootstrap](https://img.shields.io/badge/Bootstrap-01466e?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![Redux](https://img.shields.io/badge/Redux-01466e?style=for-the-badge&logo=redux&logoColor=white)
 
     
