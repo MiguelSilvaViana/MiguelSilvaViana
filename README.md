@@ -40,7 +40,6 @@
     
 - **Front-End Development**:
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-01466e.svg?style=for-the-badge&logo=javascript&logoColor=white)
    ![React](https://img.shields.io/badge/React-01466e?style=for-the-badge&logo=react&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-01466e.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-01466e.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,12 +68,8 @@
     ![MySQL](https://img.shields.io/badge/MySQL-01466e?style=for-the-badge&logo=mysql&logoColor=white)
     ![Firebase](https://img.shields.io/badge/firebase-01466e?style=for-the-badge&logo=firebase&logoColor=white)
     ![Mongodb](https://img.shields.io/badge/MongoDB-01466e?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![React Router](https://img.shields.io/badge/React_Router-01466e?style=for-the-badge&logo=react-router&logoColor=white)
     ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-01466e?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![Redux](https://img.shields.io/badge/Redux-01466e?style=for-the-badge&logo=redux&logoColor=white)
-
     
-
 <br>
 
 - **Extras**:
@@ -82,7 +77,6 @@
     ![English](https://img.shields.io/badge/english-01466e?logo=english&logoColor=fff&style=for-the-badge)
     ![Blockchain](https://img.shields.io/badge/Blockchain.com-01466e?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)  
     ![github](https://img.shields.io/badge/GIT-01466e?style=for-the-badge&logo=git&logoColor=white)
-    ![Gitkraken](https://img.shields.io/badge/GitKraken-01466e?style=for-the-badge&logo=GitKraken&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-01466e?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Powershell](https://img.shields.io/badge/powershell-01466e?style=for-the-badge&logo=powershell&logoColor=white) 
 
