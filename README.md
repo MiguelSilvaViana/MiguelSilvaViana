@@ -19,7 +19,7 @@
 
 - A passionate self-taught Fullstack developer
 - Currently learning Web Development by Self
-- Personal website <a href="developermiguel.com" target="_blank">Link</a>
+- Personal website <a href="http://www.developermiguel.com/" target="_blank">Link</a>
 - I’m currently open for an Intern or a new job opportunity, this is [my github](https://github.com/MiguelSilvaViana)
 
 <br><br>
@@ -134,7 +134,7 @@
 <br>
 
 <li>
-<a href="#developermiguel.com" target="_blank">
+<a href="http://www.developermiguel.com/" target="_blank">
 <img src="https://img.shields.io/badge/website-01466e?style=for-the-badge&logo=About.me&logoColor=white" t=website style="margin-bottom: 5px;" />
 </a>
 </li>
