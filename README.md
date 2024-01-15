@@ -20,8 +20,10 @@
 - A passionate self-taught Fullstack developer
 - Currently learning Web Development by Self
 - Personal website [link](developermiguel.com)
-- [Personal website](https://developermiguel.com){:target="_blank"}
-
+<a href="#developermiguel.com" target="_blank">
+- Personal website
+</a>
+<br/>
 - I’m currently open for an Intern or a new job opportunity, this is [my github](https://github.com/MiguelSilvaViana)
 
 <br><br>
